@@ -1,0 +1,28 @@
+
+ssh bandit0@bandit.labs.overthewire.org -p2220
+
+lvl 0 : NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
+lvl 1 : command used ----> cat ./- 
+        rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
+lvl 2 : command used ----> cat spaces\ in\ this\ filename 
+        aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
+lvl 3 : command used ---->  cd inhere/ then  cat .hidden
+        2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
+lvl 4 : command used ---->  cat ./-file07
+        lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
+lvl 5 : command used ---->  find -readable -size 1033c then cat ./maybehere07/.file2
+        P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
+lvl 6 : command used ---->  find / -user bandit7 -group bandit6 -size 33c
+        z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
+lvl 7 : command used ----> grep millionth data.txt
+        TESKZC0XvTetK0S9xNwm25STk5iWrBvP
+lvl 8: command used ----> sort data.txt | uniq -u
+       EN632PlfYiZbn3PhVK3XOGSlNInNE00t
+lvl 9 : command used ----> strings data.txt | grep -e =
+       G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s
+lvl 10 : command used ---> base64 -d data.txt
+       6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
+lvl 11 : command used --->  tr 'A-Za-z' 'N-ZA-Mn-za-m' <<< "Gur cnffjbeq vf WIAOOSFzMjXXBC0KoSKBbJ8puQm5lIEi"
+       JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv  
+note : rotation of A 13 position is N similarly a is n after rotation      
+
