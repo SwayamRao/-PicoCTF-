@@ -1,3 +1,4 @@
+
 In this lvl , I first saw working of the program which was a python file using python3 followed by filename.
 It was not what displaying anything related to the flag so I went saw the code using cat command.
 There I saw a code named bezos_cc_secret which seemed some kind of encrypted data or a cipher text.
