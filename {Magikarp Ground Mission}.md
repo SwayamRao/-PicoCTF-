@@ -8,4 +8,6 @@ There was another file called instructions-to-2of3.txt
 I used command "cat" to retrive the information that the files might be in root directory.
 I went to root directory and retrived all the 3 parts of flag.
 
+----------------------------------------
 Flag : picoCTF{xxsh_0ut_0f_\/\/4t3r_540e4e79}
+----------------------------------------
