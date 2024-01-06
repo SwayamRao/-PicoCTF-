@@ -13,4 +13,7 @@ After this we need to understand about DS_Store used my mac
 {reading material : https://developer.mozilla.org/en-US/docs/Learn/Server-side/Apache_Configuration_htaccess } 
 
 You will 5 different parts of flag.
+
+----------------------------------------
 Combined flag : picoCTF{th4ts_4_l0t_0f_pl4c3s_2_lO0k_74cceb07}
+----------------------------------------

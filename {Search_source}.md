@@ -6,6 +6,7 @@ Then we use grep to get the flag.
 Command : grep -nr picoCTF .
 Here -nr means it will search each line recursively which means it will go through all the directory and file and . is used to mention present directory.
 After this u will get the flag easily.
+
 -------------------------------------
 Flag : picoCTF{1nsp3ti0n_0f_w3bpag3s_587d12b8}
 -------------------------------------
