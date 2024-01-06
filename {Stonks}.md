@@ -22,4 +22,8 @@ _y3n  n3y_
 d06d  d60d
 ÿÅ}   } gibrish
  
-soo now we get the original flag :- picoCTF{I_l05t_4ll_my_m0n3y_6045d60d}
+soo now we get the original 
+
+----------------------------------------
+Flag :- picoCTF{I_l05t_4ll_my_m0n3y_6045d60d}
+----------------------------------------

@@ -5,4 +5,6 @@ First in this question, I went to inspect mode and saw there were some elements 
 There were two things that caught my eye which were : 'Correct!' and 'check_flag'.
 But then I saw an extension given then I used the extension which downloaded a file in it was the flag.
 
+----------------------------------------
 Flag : picoCTF{cb688c00b5a2ede7eaedcae883735759}
+----------------------------------------
