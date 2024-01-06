@@ -7,10 +7,12 @@ Then we need to use 'DNT' which is 'do not track' and the value should be kept t
 Then we need to use 'X-Forwarded-For' and the ip address of sweden to access as sweden client.
 Then we change the value of 'Accept-Launguage' to sv.
 The whole challenge was to get to know about the http headers and how to manipuate those headers.
+
+Reading material : https://datatracker.ietf.org/doc/html/rfc2616#section-13
+Reading material : https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers
+
 --------------------------------
 Flag : picoCTF{http_h34d3rs_v3ry_c0Ol_much_w0w_79e451a7}
 --------------------------------
 
 
-Reading material : https://datatracker.ietf.org/doc/html/rfc2616#section-13
-Reading material : https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers
