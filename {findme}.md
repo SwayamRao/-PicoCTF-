@@ -6,7 +6,8 @@ After decoding it using codechef or base64 decoder we get
 picoCTF{proxies_al
 I got another base64 encoded request which was bF90aGVfd2F5X2QxYzBiMTEyfQ
 which was l_the_way_d1c0b112}.
-So I combined both the flags to get 
+So I combined both the flags to get main flag. 
+
 -----------------------------
 Flag : picoCTF{proxies_all_the_way_d1c0b112}
 -----------------------------

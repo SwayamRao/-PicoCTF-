@@ -19,4 +19,7 @@ print(hashlib.sha256(bUsername_trial).hexdigest()[8])
 
 
 Then add the result in the static part to obtain the overall flag 
+
+------------------------------------------------
  Flag : picoCTF{1n_7h3_|<3y_of_01582419}
+------------------------------------------------
